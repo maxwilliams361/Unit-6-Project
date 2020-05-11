@@ -1,0 +1,78 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 50px;
+    background-color: orange;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+
+h1 {
+    font-size: 20px;
+    color: black;
+}
+
+.openingImages {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+.Part-Two-Yes {
+    display: none;
+
+}
+
+.Part-Two-No {
+    display: none;
+
+}
+
+.ClimaxYes {
+    display: none;
+
+}
+
+.ClimaxNo {
+    display: none;
+
+}
+
+.Story-Ending-Yes {
+    display: none;
+}
+
+.Story-Ending-No {
+    display: none;
+}
+
+img{
+    height:350px;
+}
+
